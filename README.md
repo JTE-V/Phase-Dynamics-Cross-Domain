@@ -1,2 +1,19 @@
-# Phase-Dynamics-Cross-Domain
-Independent numerical research on Zeta zero spacing dynamics and phase dissipation models. Open for cross-disciplinary collaboration.
+## Aggregation-State-Dynamics-Numerical-Evidence
+
+# Independent Researcher | Seeking Collaboration
+
+本仓库仅展示基于真实完备数据的动力学建模数值证据（Numerical Evidence），不包含完整源码。
+
+核心数据展示：
+
+1. L公式工程验证：基于真实RLC耗散电路系统，严格数值积分得出复相位相关性为 0.9180。证明 u^2 = ER/t 与耗散系统物理映射一致。
+2. 极差与辐角定量耦合：基于 Zeta 零点完备数据（29.8万零点，逆向导构消元 0.005 步长），观测到真实的零点极差与相位跳跃存在强烈的动力学锁定。
+3. 哈勃张力动力学映射：通过原始相位累积积分 P = \int (1-\delta) X_{\text{原}} Z(\theta) d((X-A)/R) 驱动 H_0(z) 振荡，探索原始动力学映射的边界。
+
+免责声明：
+本仓库数据展示的仅为数值验证（Numerical Evidence），不构成任何形式化的无条件解析证明（NOT a formal proof）。下一步的研究方向是引入欧拉-麦克劳林公式的严格伯努利余项，进行解析界紧化。
+
+版权与联系方式：
+所有展示图表及数据版权归本人所有。如果您是数学/物理/计算科学领域的同行，对形式化证明或交叉学科合作感兴趣，请通过下方邮箱联系，注明“合作与研究”。
+
+邮箱：
